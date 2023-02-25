@@ -9,3 +9,6 @@ Look [here](https://github.com/benchungus/Homework1) to see my first python proj
 
 ## Fun guessing game
 Look [here](https://github.com/benchungus/Homework2) to check out my guessing game
+
+## Wordnet Notebook
+To look at my WordNet Notebook, click [here](https://github.com/benchungus/BenX_Portfolio/blob/main/bzx180000Homework3.pdf)
