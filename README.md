@@ -12,3 +12,6 @@ Look [here](https://github.com/benchungus/Homework2) to check out my guessing ga
 
 ## Wordnet Notebook
 To look at my WordNet Notebook, click [here](https://github.com/benchungus/BenX_Portfolio/blob/main/bzx180000Homework3.pdf)
+
+## N-grams
+My ngrams project can be found [here](https://github.com/benchungus/NgramsProgram), and my writeup is [here](https://github.com/benchungus/BenX_Portfolio/blob/main/Ngrams_Narrative.pdf)
