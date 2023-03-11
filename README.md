@@ -15,3 +15,6 @@ To look at my WordNet Notebook, click [here](https://github.com/benchungus/BenX_
 
 ## N-grams
 My ngrams project can be found [here](https://github.com/benchungus/NgramsProgram), and my writeup is [here](https://github.com/benchungus/BenX_Portfolio/blob/main/Ngrams%20Narrative.pdf)
+
+## Web crawler
+Check out my [web crawler](https://github.com/benchungus/NLPWebCrawler), and also my [writeup](https://github.com/benchungus/BenX_Portfolio/blob/main/Net_Scraping_a_Corpus.pdf) for it!
