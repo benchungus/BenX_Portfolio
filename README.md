@@ -18,3 +18,6 @@ My ngrams project can be found [here](https://github.com/benchungus/NgramsProgra
 
 ## Web crawler
 Check out my [web crawler](https://github.com/benchungus/NLPWebCrawler), and also my [writeup](https://github.com/benchungus/BenX_Portfolio/blob/main/Net_Scraping_a_Corpus.pdf) for it!
+
+## Text classification
+My writeup on text classification can be found [here](https://github.com/benchungus/BenX_Portfolio/blob/main/TextClassification.pdf)
