@@ -21,3 +21,6 @@ Check out my [web crawler](https://github.com/benchungus/NLPWebCrawler), and als
 
 ## Text classification
 My writeup on text classification can be found [here](https://github.com/benchungus/BenX_Portfolio/blob/main/TextClassification.pdf)
+
+## Attention paper summary
+Follow this [link](https://github.com/benchungus/BenX_Portfolio/blob/main/Summary%20of%20Attention%20Article.pdf) to see my summary and analysis of this paper on attention.
