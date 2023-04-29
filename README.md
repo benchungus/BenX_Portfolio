@@ -27,3 +27,6 @@ Follow this [link](https://github.com/benchungus/BenX_Portfolio/blob/main/Summar
 
 ## Despicable Me Chatbot
 Check out my chatbot! [Chatbot](https://bot.dialogflow.com/f3a65458-b647-4d19-83ef-3019c93e2515) Also read at my [report](https://github.com/benchungus/BenX_Portfolio/blob/main/Chatbot_Report.pdf) on it.
+
+## Text classification 2
+I wrote more on text classification, which can be found [here](https://github.com/benchungus/BenX_Portfolio/blob/main/TextClassification2.ipynb%20-%20Colaboratory.pdf)
