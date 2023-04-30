@@ -32,3 +32,5 @@ Check out my chatbot! [Chatbot](https://bot.dialogflow.com/f3a65458-b647-4d19-83
 
 ## Text classification 2
 I wrote more on text classification, which can be found [here](https://github.com/benchungus/BenX_Portfolio/blob/main/TextClassification2.ipynb%20-%20Colaboratory.pdf)
+
+## [Skills I've Learned through this course](https://github.com/benchungus/BenX_Portfolio/blob/main/Skills%20I've%20learned.pdf)
